@@ -54,6 +54,7 @@ class _SliderPageState extends State<SliderPage> {
       fit: BoxFit.contain,
     );
   }
+  //ListView
 
   Widget _checkBox() {
     return CheckboxListTile(
