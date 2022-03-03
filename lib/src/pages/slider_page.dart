@@ -58,6 +58,7 @@ class _SliderPageState extends State<SliderPage> {
   //Map
   //JSON
   //Future Builder
+  //IconoporString
 
   Widget _checkBox() {
     return CheckboxListTile(
