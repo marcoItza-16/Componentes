@@ -62,6 +62,7 @@ class _SliderPageState extends State<SliderPage> {
   //Pages
 //Rutasds
   //TarjetasPersonalizacion
+  //CricleAvatar
   Widget _checkBox() {
     return CheckboxListTile(
         title: Text("Bloquear slider"),
