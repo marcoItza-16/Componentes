@@ -55,6 +55,7 @@ class _SliderPageState extends State<SliderPage> {
     );
   }
   //ListView
+  //Map
 
   Widget _checkBox() {
     return CheckboxListTile(
