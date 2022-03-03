@@ -60,7 +60,7 @@ class _SliderPageState extends State<SliderPage> {
   //Future Builder
   //IconoporString
   //Pages
-
+//Rutasds
   Widget _checkBox() {
     return CheckboxListTile(
         title: Text("Bloquear slider"),
