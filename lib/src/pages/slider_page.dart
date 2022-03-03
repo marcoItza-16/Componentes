@@ -55,7 +55,7 @@ class _SliderPageState extends State<SliderPage> {
     );
   }
   //ListView
-  //Map
+  //Mapnn
   //JSON
   //Future Builder
   //IconoporString
